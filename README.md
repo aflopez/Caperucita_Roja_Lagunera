@@ -1,3 +1,3 @@
-# My Awesome Book
+# Vida de Pulgarcito
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Amiguitas y amiguitos, esta es la historia de un niño muy chiquito, llamado _Pulgarcito_
